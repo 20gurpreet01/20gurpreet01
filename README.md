@@ -50,6 +50,6 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/Gurpreet--pandey/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Gurpreet_the_lucky_lad/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gurpreet-singh-26968b199/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/gurpreetsingh__________/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
 </p>
