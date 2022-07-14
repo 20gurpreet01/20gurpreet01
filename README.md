@@ -4,7 +4,7 @@
  
 ## About Me
 
-- Hi, I’m @20gurpreet01
+- Hi, I’m Gurpreet
 - I’m interested in full Stack WebDevelopment.
 - I’m currently learning ReactJS by working on projects.
 - I’m looking to collaborate with people with JS skills.
