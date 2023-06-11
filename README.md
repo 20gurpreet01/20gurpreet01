@@ -6,8 +6,9 @@
 
 - Hi, I’m Gurpreet
 - I’m interested in full Stack WebDevelopment.
-- I’m currently learning ReactJS by working on projects.
-- I’m looking to collaborate with people with JS skills.
+- Poficient in ReactJS.
+- Firm grasp on Python and frameworks like Flask/Django.
+- ML/AI enthusiast.
 - I love building small projects, exploring, innovating and tinkering with new technologies to solve real-life problems.
 - Have a keen interest in Writing & Volleyball.
 
